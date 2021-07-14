@@ -1,0 +1,5 @@
+This is secret key for a UVS site.
+
+Only for UVS administration!
+
+django-insecure-+x$#zfntzk(3k+o9^n@j24eti^_7k+ct(33^8n-6fg4txd)d6=
